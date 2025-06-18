@@ -1,6 +1,6 @@
 # n8n-evolution-redis-postgres
 
-Este projeto utiliza Docker Compose para orquestrar uma instância do [n8n Evolution](https://n8n.io/), com suporte a persistência via PostgreSQL e cache com Redis.
+Este projeto utiliza Docker Compose para orquestrar uma instância do Evolution API e [n8n](https://n8n.io/), com suporte a persistência via PostgreSQL e cache com Redis.
 
 ## 📁 Estrutura
 
